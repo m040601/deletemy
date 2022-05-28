@@ -46,3 +46,105 @@ But GitHub also allows you to use a few HTML elements beyond what Markdown provi
     <li>Due date: 5/6/19</li>
   </ol>
 </details>
+
+
+
+
+
+
+# Try putting your HTML snippet inside an ```HTML block like this:
+
+```html
+<h2>Example of code</h2>
+
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            //Your content
+            </div>
+        </div>
+    </div>
+</pre>
+```
+
+
+
+
+
+
+# w3c html5 kbd, samp
+
+https://iandevlin.com/blog/2012/07/html5/using-html-kbd-samp-and-pre-elements/
+
+As the name might suggest, the kbd element is used to represent user input that is typically entered via a keyboard. You might use this when you are describing what a user would enter to carry out a specific task, for example:
+
+
+
+```
+To get a list of directories, type <kbd>dir</kbd> in the command line and press <kbd>Enter</kbd>
+```
+To get a list of directories, type <kbd>dir</kbd> in the command line and press <kbd>Enter</kbd>
+
+
+
+```
+It wasn't the most helpful of error messages as it simply said: <samp>An error has occurred</samp>.
+```
+It wasn't the most helpful of error messages as it simply said: <samp>An error has occurred</samp>.
+
+
+
+```
+<pre><samp>C:\\></samp>
+<kbd><kbd>cd html5</kbd> + <kbd>Enter</kbd></kbd>
+<samp>C:\\html5></samp></pre>
+```
+
+<pre><samp>C:\\></samp>
+<kbd><kbd>cd html5</kbd> + <kbd>Enter</kbd></kbd>
+<samp>C:\\html5></samp></pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
